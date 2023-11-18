@@ -19,4 +19,12 @@
 
 9. **VMware**: became famous for its first type 2 hypervisor known as **GSX**. It virtualised the hardware for a video adapter, a network adapter, and hard disk adapters. The host provides pass-through drivers for guest USB, serial, and parallel devices. In this way, VMware virtual machines become highly portable between computers, because every host looks nearly identical to the guest.
 
-10. **Kubernetes**:
+10. **Kubernetes**: 
+
+11. **Load Balancing**: It tracks the availability of pods.
+
+12. **Pods**: the smallest deployable units of computing that you can create and manage in Kubernetes. A Pod (as in a pod of whales or pea pod) is a group of one or more containers, with shared storage and network resources, and a specification for how to run the containers
+
+13. **Configuration**:
+
+14. **Cluster Administration in Kubernetes**:
